@@ -19,7 +19,7 @@
       "homepage": "https://spara.com",
       "repository": "https://github.com/spara-ai/spara-plugins",
       "license": "Apache-2.0",
-      "keywords": ["spara", "sales", "gtm", "analytics", "agents", "mcp"]
+      "keywords": ["spara", "sales", "gtm", "analytics", "voice", "inbound", "outbound", "agents", "mcp"]
     }
   ]
 }
