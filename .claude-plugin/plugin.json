@@ -1,0 +1,14 @@
+{
+  "name": "spara",
+  "displayName": "Spara",
+  "description": "Connect Claude to your Spara workspace to inspect and edit GTM agents as drafts, analyze your data, and search Spara documentation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Spara",
+    "email": "support@spara.com"
+  },
+  "homepage": "https://spara.com",
+  "repository": "https://github.com/spara-ai/spara-plugins",
+  "license": "Apache-2.0",
+  "keywords": ["spara", "sales", "gtm", "plg", "voice", "inbound", "outbound", "agents", "mcp"]
+}

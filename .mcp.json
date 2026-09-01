@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "spara": {
+      "type": "http",
+      "url": "https://app.spara.co/mcp/customer/stream"
+    }
+  }
+}
