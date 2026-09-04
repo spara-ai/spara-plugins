@@ -1,7 +1,7 @@
 {
   "name": "spara",
   "displayName": "Spara",
-  "description": "Connect Claude to your Spara workspace to inspect and edit GTM agents as drafts, analyze your data, and search Spara documentation.",
+  "description": "Connect Claude to your Spara workspace to analyze how your agents are converting, tune your agents' instructions, and build new agents as drafts.",
   "version": "0.1.0",
   "author": {
     "name": "Spara",

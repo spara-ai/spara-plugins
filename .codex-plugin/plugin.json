@@ -1,0 +1,45 @@
+{
+  "name": "spara",
+  "version": "0.1.0",
+  "description": "Connect Codex to your Spara workspace to analyze how your agents are converting, tune your agents' instructions, and build new agents as drafts.",
+  "author": {
+    "name": "Spara",
+    "email": "support@spara.com",
+    "url": "https://spara.com"
+  },
+  "homepage": "https://spara.com",
+  "repository": "https://github.com/spara-ai/spara-plugins",
+  "license": "Apache-2.0",
+  "keywords": [
+    "spara",
+    "sales",
+    "gtm",
+    "analytics",
+    "voice",
+    "inbound",
+    "outbound",
+    "agents",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Spara",
+    "shortDescription": "Build the agents that run your GTM.",
+    "longDescription": "Spara is the platform for agent-led growth. GTM teams, from high-growth startups to the Fortune 500, win more revenue by putting AI agents to work across the full sales cycle, while their reps stay focused on the deals that need them. Spara agents talk directly to buyers across chat, phone, email, and text: engaging and qualifying every website visitor, running interactive AI product demos, reactivating dormant leads, following up after events, and handling customer onboarding.",
+    "developerName": "Spara",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Analytics",
+      "Write"
+    ],
+    "websiteURL": "https://spara.com",
+    "privacyPolicyURL": "https://www.spara.com/privacy",
+    "defaultPrompt": [
+      "What agents and channels do we have set up in Spara?",
+      "How are our Spara chat conversions trending this month?",
+      "Tighten the opening line of our Spara chat agent."
+    ]
+  }
+}
